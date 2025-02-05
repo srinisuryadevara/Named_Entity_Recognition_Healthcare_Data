@@ -13,7 +13,7 @@ However, note that it is not explicitly mentioned in the dataset about the disea
 
 The train dataset is used to train the Continuous Random Field (CRF) model, and the test dataset is used to evaluate the built model.
 
-Github URL : https://github.com/srinisuryadevara/Named_Entity_Recognition_Healthcare_Data/blob/main/NER_Healthcare_Data.ipynb
+Github URL : https://github.com/srinisuryadevara/Named_Entity_Recognition_Healthcare_Data/
  
 
 
