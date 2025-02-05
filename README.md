@@ -12,6 +12,8 @@ We have been given such a data set in which a lot of text is written related to 
 However, note that it is not explicitly mentioned in the dataset about the diseases and their treatment, but we can build an algorithm to map the diseases and their respective treatment.
 
 The train dataset is used to train the Continuous Random Field (CRF) model, and the test dataset is used to evaluate the built model.
+
+Github URL : https://github.com/srinisuryadevara/Named_Entity_Recognition_Healthcare_Data/blob/main/NER_Healthcare_Data.ipynb
  
 
 
